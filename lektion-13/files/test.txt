@@ -1,0 +1,3 @@
+Hello world
+En rad till
+Fungera det med append också?
